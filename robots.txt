@@ -6,4 +6,4 @@ User-agent: CCBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://www.ryangates.ca/sitemap.xml
+Sitemap: ///sitemap.xml

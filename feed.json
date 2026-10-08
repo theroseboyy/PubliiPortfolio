@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Ryan Gates",
     "description": "",
-    "home_page_url": "https://www.ryangates.ca",
-    "feed_url": "https://www.ryangates.ca/feed.json",
+    "home_page_url": "//",
+    "feed_url": "///feed.json",
     "user_comment": "",
     "author": {
         "name": "Ryan Gates"
